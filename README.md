@@ -69,15 +69,6 @@ R² Score: 0.685
 
 ---
 
-## 💡 Future Improvements (Optional)
-
-- Add feature scaling
-- Try other models like Ridge, Lasso, or Random Forest
-- Deploy with Flask as a web app
-- Add interactive input for users
-
----
-
 ## 🧑‍🎓 Author
 
 **Nausha Tendulkar**  
