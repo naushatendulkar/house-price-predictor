@@ -81,8 +81,6 @@ This project uses the **King County housing dataset** to build a predictive mode
 **Nausha Tendulkar**  
 *Aspiring AI/ML Developer | Java & Python Programmer*
 
-[LinkedIn Profile](https://www.linkedin.com) *(Add your link)*  
-[GitHub Profile](https://github.com/YOUR_USERNAME)
 
 ---
 
