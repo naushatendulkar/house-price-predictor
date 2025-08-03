@@ -44,3 +44,45 @@ This project uses the **King County housing dataset** to build a predictive mode
 
 ## 🔢 Sample Output
 
+
+![Prediction Plot](https://via.placeholder.com/600x300.png?text=Actual+vs+Predicted+Prices)  
+*Sample scatter plot: actual vs predicted prices.*
+
+---
+
+## 📊 Dataset Used
+
+**Name:** House Sales in King County, USA  
+**Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repo or download the files.
+2. Open the Jupyter Notebook or Python script.
+3. Make sure `kc_house_data.csv` is in the same directory.
+4. Run all cells or execute the script.
+5. Observe the model predictions and plots.
+
+---
+
+## 💡 Future Improvements (Optional)
+
+- Add feature scaling
+- Try other models like Ridge, Lasso, or Random Forest
+- Deploy with Flask as a web app
+- Add interactive input for users
+
+---
+
+## 🧑‍🎓 Author
+
+**Nausha Tendulkar**  
+*Aspiring AI/ML Developer | Java & Python Programmer*
+
+[LinkedIn Profile](https://www.linkedin.com) *(Add your link)*  
+[GitHub Profile](https://github.com/YOUR_USERNAME)
+
+---
+
