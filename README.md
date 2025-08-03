@@ -43,7 +43,7 @@ This project uses the **King County housing dataset** to build a predictive mode
 ---
 
 ## 🔢 Sample Output
-Root Mean Squared Error (RMSE): 210345.65
+Root Mean Squared Error (RMSE): 210345.65 
 R² Score: 0.685
 
 ![Prediction Plot](prediction_plot.png)
